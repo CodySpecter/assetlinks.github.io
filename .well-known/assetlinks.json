@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.rapidparty",
+    "sha256_cert_fingerprints":
+    ["B2:18:70:20:8B:F2:E1:42:74:28:E1:B8:ED:9E:66:E1:3B:CC:CE:23:43:DD:A2:35:6A:64:57:07:63:A6:88:94",
+    "5F:A8:DE:07:BB:27:1B:06:D6:E4:7B:52:01:B4:52:90:9E:C2:6B:B8:6E:08:88:2F:DA:00:F9:39:55:75:CA:3B"]
+  }
+}]
